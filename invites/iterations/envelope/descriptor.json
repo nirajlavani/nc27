@@ -1,0 +1,22 @@
+{
+  "id": "envelope",
+  "title": "Atelier suite",
+  "construction": "envelope",
+  "band": {
+    "text": "NC27"
+  },
+  "cards": [
+    {
+      "role": "letter",
+      "text": "You are invited to gather for the North American Convention, 2026."
+    },
+    {
+      "role": "theme",
+      "text": "Itinerary"
+    },
+    {
+      "role": "qr",
+      "url": "https://example.com/nc27"
+    }
+  ]
+}

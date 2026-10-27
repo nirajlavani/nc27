@@ -1,0 +1,9 @@
+{
+  "id": "french-door",
+  "title": "French door",
+  "construction": "french-door",
+  "cards": [
+    { "role": "letter", "text": "French doors open onto the NC27 invitation, 2026." },
+    { "role": "theme" }
+  ]
+}

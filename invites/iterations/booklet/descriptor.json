@@ -1,0 +1,9 @@
+{
+  "id": "booklet",
+  "title": "Booklet",
+  "construction": "booklet",
+  "cards": [
+    { "role": "letter", "text": "Open this booklet for the NC27 gathering, 2026." },
+    { "role": "qr" }
+  ]
+}
